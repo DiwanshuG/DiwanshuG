@@ -1,35 +1,89 @@
-## Hi there I am Diwanshu 👋
+## Hi, I’m Diwanshu 👋  
+**AI / ML & Full-Stack Developer | Learning in Public | Project-Driven**
 
-- 👯 I’m looking to collaborate on AI/ML projects, web development (ReactJS, MERN stack), and data science applications.<br>
-- 🌱 I’m currently learning the MERN stack, machine learning, and DSA while improving my web development and AI skills. <br> 
-- 🤔 I’m looking for help with optimizing ML models and enhancing the performance of AI applications on low-end hardware. <br>
-- 💬 Ask me about web development, AI model building, SQL, and project-based learning.  <br>
-- 📫 How to reach me: [www.linkedin.com/in/diwanshu-gangwar] & Email:[diwanshu.dev44@gmail.com]<br> 
-- 😄 Pronouns: He/Him  <br>
-- ⚡ Fun fact: I play chess and stream on YouTube, and I’m on a journey to improve my skills to go live!<br>
+I’m a tech enthusiast focused on **building, breaking, and improving real-world projects** across AI/ML, data science, and full-stack web development.  
+Right now, I’m actively **learning, experimenting, and documenting my journey** as I grow into a stronger engineer.
+
+---
+
+###  What I’m Currently Doing
+-  Learning **Machine Learning**, **DSA**, and the **MERN stack**
+-  Building **project-based solutions** using Python, SQL, and JavaScript
+-  Exploring ways to **optimize ML models for low-end hardware**
+-  Improving fundamentals while shipping small, consistent projects
+
+---
+
+### 🤝 Open to Collaborate On
+- AI / ML & data science projects  
+- MERN stack & React-based web apps  
+- Practical, learning-focused open-source contributions  
+
+---
+
+###  Ask Me About
+- Machine learning fundamentals & model building  
+- SQL, data analysis, and Python projects  
+- Web development (React, Node, Express)  
+- Learning tech **step-by-step through projects**
+
+---
+
+###  Beyond Code
+-  Chess player (~1300 on Chess.com)
+-  I stream and create tech content on YouTube  
 
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@TheRealDiwanshu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mr_taiech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diwanshu.dev44@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DiwanshuG&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DiwanshuG&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiwanshuG&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###  Connect With Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/diwanshu-gangwar  
+- 📧 Email: diwanshu.dev44@gmail.com  
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+---
 
-### 🔝 Top Contributed Repo
+## 🌐 Socials
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@TheRealDiwanshu)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mr_taiech)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diwanshu.dev44@gmail.com)
+
+---
+
+## 💻 Tech Stack
+**Languages & Core**
+- C, C++, Python, JavaScript, SQL  
+
+**Web Development**
+- HTML, CSS, React, Node.js, Express.js  
+- MongoDB, MySQL  
+- Tailwind CSS  
+
+**AI / Data**
+- NumPy, Pandas, Matplotlib  
+- OpenCV, FastAPI  
+
+**Tools**
+- Git & GitHub, Canva  
+
+---
+
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=DiwanshuG&theme=monokai&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=DiwanshuG&theme=monokai&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiwanshuG&theme=monokai&layout=compact&theme=monokai)
+
+---
+
+###  Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+
+---
+
+### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=DiwanshuG&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-  ##
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mr_taiech) 
+---
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mr_taiech)
 
-
-
+<!-- Built with GPRM -->
