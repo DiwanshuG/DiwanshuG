@@ -2,7 +2,7 @@
 
 Machine Learning Enthusiast | Building and Deploying Real-World ML Systems
 
-I focus on applied machine learning — taking models from idea to production.
+I focus on applied machine learning ,taking models from idea to production.
 Currently building end-to-end ML projects and documenting my learning journey.
 
 ---
@@ -31,7 +31,7 @@ Currently building end-to-end ML projects and documenting my learning journey.
 
 ### Chest X-ray Classifier
 
-[Live Demo](https://chest-x-ray-classifier-by-diwanshu-gangwar.streamlit.app/) | [Code] (https://github.com/DiwanshuG/Chest-X-ray-Classifier)
+[Live Demo](https://chest-x-ray-classifier-by-diwanshu-gangwar.streamlit.app/) | [Code](https://github.com/DiwanshuG/Chest-X-ray-Classifier)
 
 * Deep learning model for medical image classification
 * Detects Pneumonia / TB / Normal
