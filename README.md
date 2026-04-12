@@ -22,7 +22,7 @@ Currently building end-to-end ML projects and documenting my learning journey.
 
 ### IPL Win Predictor
 
-Live:(https://ipl-win-predictor-2025.streamlit.app/)| Code: (https://github.com/DiwanshuG/IPL_Winner_Predictor)
+[Live Demo](https://ipl-win-predictor-2025.streamlit.app/)  |  [Code](https://github.com/DiwanshuG/IPL_Winner_Predictor)
 
 * Real-time win probability prediction using ML
 * Feature engineering + classification models
@@ -31,7 +31,7 @@ Live:(https://ipl-win-predictor-2025.streamlit.app/)| Code: (https://github.com/
 
 ### Chest X-ray Classifier
 
-Live:(https://chest-x-ray-classifier-by-diwanshu-gangwar.streamlit.app/) | Code: (https://github.com/DiwanshuG/Chest-X-ray-Classifier)
+[Live Demo](https://chest-x-ray-classifier-by-diwanshu-gangwar.streamlit.app/) | [Code] (https://github.com/DiwanshuG/Chest-X-ray-Classifier)
 
 * Deep learning model for medical image classification
 * Detects Pneumonia / TB / Normal
@@ -40,7 +40,7 @@ Live:(https://chest-x-ray-classifier-by-diwanshu-gangwar.streamlit.app/) | Code:
 
 ### Resume Analyzer
 
-Live: (https://ai-resume-analyzer-diwanshu-gg.streamlit.app/) | Code:(https://github.com/DiwanshuG/ai-resume-analyzer)
+[Live Demo](https://ai-resume-analyzer-diwanshu-gg.streamlit.app/) | [Code](https://github.com/DiwanshuG/ai-resume-analyzer)
 
 * NLP-based resume analysis system
 * Extracts insights from resumes
@@ -50,7 +50,7 @@ Live: (https://ai-resume-analyzer-diwanshu-gg.streamlit.app/) | Code:(https://gi
 ## ML Learning Repository
 
 I document my daily learning and progress here:
-Repo: https://github.com/DiwanshuG/MachineLearningJourney
+[Repo](https://github.com/DiwanshuG/MachineLearningJourney)
 
 * Covers ML concepts, math, and implementations
 * Includes topics like AdaBoost, Gradient Boosting, and more
