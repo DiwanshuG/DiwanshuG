@@ -121,3 +121,5 @@ Email: [diwanshu.dev44@gmail.com](mailto:diwanshu.dev44@gmail.com)
 ---
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge\&logo=buy-me-a-coffee\&logoColor=black)](https://buymeacoffee.com/mr_taiech)
+
+[ML course Repo](https://github.com/DiwanshuG/MachineLearningJourney)
