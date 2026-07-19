@@ -74,7 +74,7 @@ FastAPI, Git, GitHub
 ---
 
 ## Connect With Me
-LinkedIn: https://www.linkedin.com/in/diwanshu-gangwar
+Linkedin: https://www.linkedin.com/in/diwanshu-gangwar
 Email: [diwanshu.dev44@gmail.com](mailto:diwanshu.dev44@gmail.com)
 
 ---
